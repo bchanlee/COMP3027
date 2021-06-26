@@ -1,8 +1,8 @@
 # ASSIGNMENT 2 - Dynamic Programming
 
-Find the maximum total score that can be obtained by a feasible climbing path.\\
+Find the maximum total score that can be obtained by a feasible climbing path.
 
-Given:\\
+Given:
 * grid (n x m matrix)
 * Start-position is the bottom-left corner (0, 0)
 * Only allowed to climb rightwards or upwards
