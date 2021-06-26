@@ -1,4 +1,4 @@
-# ASSIGNMENT 2 - Dynamic Programming
+# Assignment 2 - Dynamic Programming
 
 Find the maximum total score that can be obtained by a feasible climbing path.
 
